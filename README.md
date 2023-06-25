@@ -1,0 +1,2 @@
+# DropNumberGame
+ It is to create a Drop Number Game using certain data structures (Multi-Linked List) in the Java  programming language, and during the creation of this game, we were asked to create our own Linked  List and Node classes in accordance with the project. Some of these operations are the operations of  checking these data, which are added by adding data to the right or up in a linked list
